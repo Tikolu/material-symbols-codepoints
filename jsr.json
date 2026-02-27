@@ -1,0 +1,7 @@
+{
+  "name": "@tikolu/material-symbols-codepoints",
+  "description": "Simple utility for getting codepoints from Material Symbols icons.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "exports": "./index.js"
+}
